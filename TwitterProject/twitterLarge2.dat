@@ -1,0 +1,15 @@
+5
+Aaron 
+Bryan Calvin 
+Calvin Bryan 
+David Bryan Calvin 
+Emanuel Bryan Calvin David 
+2015-07-03 06:00:01 Aaron I do not follow anyone, and no one follows me therefore this should only appear in Aarons main feed
+2015-07-03 06:00:54 Aaron @Bryan This tweet should appear only in Aaron main feed and Bryan mention feed
+2015-07-03 06:04:35 Bryan @Calvin This tweet should appear in Calvin main and mention feeds, and in my main feed
+2015-07-03 06:06:55 Bryan This tweet should appear in @Aaron mention feed, and in Bryan, Calvin, David, and Emmanuel main feed
+2015-07-03 06:13:54 Calvin This tweet should appear in my, Bryan, David, and Emmanuel main feed
+2015-07-04 05:24:23 Calvin @Bryan can see this tweet in his main and mention feeds
+2015-07-03 06:19:04 David @Bryan Only Bryan can see this in his mention feed and I should see it in my main feed
+2015-07-03 06:33:33 Emanuel @Bryan I am sure @Aaron can not see this
+2015-07-04 05:08:58 Emanuel @Calvin This one should not show up in any feed of @Bryan
