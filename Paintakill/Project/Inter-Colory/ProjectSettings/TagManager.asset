@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destructible
+  - addAmoVol1
+  - addAmoVol2
+  - Colorable
+  - Tower
+  - paintBall
+  - Base
+  - Tile
+  - Shield
+  - PaintDrop
+  - LineOfBase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PaintBall1
+  - PaintBall2
+  - Paint1
+  - Paint2
+  - Tower
+  - Base
+  - ForMouseRayCastOnly
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ChargingIndicator
+    uniqueID: 3702789789
+    locked: 0
+  - name: "\bChargedPE"
+    uniqueID: 3078328631
+    locked: 0
